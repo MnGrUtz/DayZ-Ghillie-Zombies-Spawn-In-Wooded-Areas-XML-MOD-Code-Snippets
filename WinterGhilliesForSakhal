@@ -1,0 +1,8 @@
+<!-- Ghillie Z Equipment -->
+		<attachments chance="1.0" name="bags2Army">
+		<item name="GhillieSuit_Winter" chance="1.0" />
+		</attachments>
+		
+		<attachments chance="1.0" name="hats2Army">
+			<item name="GhillieHood_Winter" chance="1.0" />
+		</attachments>
